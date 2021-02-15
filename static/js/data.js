@@ -1,27 +1,17 @@
 var playlists = [
     {
-      "name": "most-viewed",
-      "id": "PL15B1E77BB5708555",
-      "max": 543
+      "name": "80s-one",
+      "id": "PLmXxqSJJq-yXrCPGIT2gn8b34JjOrl4Xf",
+      "max": 1000
     },
     {
-      "name": "billboard",
-      "id": "PL55713C70BA91BD6E",
-      "max": 200
+      "name": "80s-two",
+      "id": "PLEB62A95CB8D0705C",
+      "max": 1000
     },
     {
-      "name": "latest",
-      "id": "PLFgquLnL59akA2PflFpeQG9L01VFg90wS",
+      "name": "80s-three",
+      "id": "PLpYWKGMgRA1uU9lyMtR8vQBzc4HrjpqYu",
       "max": 100
-    },
-    {
-      "name": "popular-music-videos",
-      "id": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
-      "max": 200
-    },
-    {
-      "name": "top-hits-this-week",
-      "id": "PLw-VjHDlEOgvWPpRBs9FRGgJcKpDimTqf",
-      "max": 130
     }
 ];
